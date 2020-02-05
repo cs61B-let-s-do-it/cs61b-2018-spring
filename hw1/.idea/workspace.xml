@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc60159b-ac93-4b9b-8c9a-07b862749ad3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XNxzXK3w7x7e7H2daZs9TSuLhu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TTFAF">
+    <configuration name="TTFAF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TTFAF" />
+      <module name="hw1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayRingBuffer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="synthesizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="synthesizer" />
+      <option name="MAIN_CLASS_NAME" value="synthesizer.TestArrayRingBuffer" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TTFAF" />
+        <item itemvalue="JUnit.TestArrayRingBuffer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc60159b-ac93-4b9b-8c9a-07b862749ad3" name="Default Changelist" comment="" />
+      <created>1580900615520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580900615520</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1342" height="185" key="GridCell.Tab.0.bottom" timestamp="1580907531865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="185" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1580907531865" />
+    <state width="1342" height="185" key="GridCell.Tab.0.center" timestamp="1580907531864">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="185" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1580907531864" />
+    <state width="1342" height="185" key="GridCell.Tab.0.left" timestamp="1580907531863">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="185" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1580907531863" />
+    <state width="1342" height="185" key="GridCell.Tab.0.right" timestamp="1580907531865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="185" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1580907531865" />
+  </component>
+</project>
